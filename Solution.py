@@ -39,7 +39,7 @@ def jalan(z):
 logo = """
    Asif Javed
    ▄︻̷̿┻̿═━一
-   THE "Solution.py",
+   "Solution.py",
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    DARLIHOT1
