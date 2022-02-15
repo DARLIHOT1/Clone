@@ -38,8 +38,8 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    Asif Javed
-   "Solution.py",
-   "Solution.py",
+   Solution.py
+   Solution.py
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    DARLIHOT1
